@@ -1,0 +1,13 @@
+#Python script for Day 2
+uname = input("Enter your name: ")
+uage = int(input("Enter your age: "))
+
+#greeting message
+print(f"Hello, {uname}! You are {uage} years old.")
+
+-- SQL code starts here
+-- Assuming MyDatabase and Users table from Day 1
+
+-- Inserting user data into the Users table
+INSERT INTO Users (ID, UFirst_Name, ULast_Name, Email, Phone_Num)
+VALUES (2, 'Bek', 'Adylbekov', 'sample@example.com', '0987654321');

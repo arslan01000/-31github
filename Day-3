@@ -1,0 +1,42 @@
+#SQL Schema Documentation starts here
+
+##Users Table
+
+###columns
+- **ID (INT):** The unique identifier for each user.
+- **UFirst_Name (VARCHAR):** User's first name.
+- **ULast_Name (VARCHAR):** User's last name
+- **Email (VARCHAR):** User's email address.
+- **Phone_Num (INT):** User's phone number.
+
+### Primary Key
+- The "ID" column serves as the primary key, ensuring each user has a unique identifier.
+
+## Database
+- **MyDatabase:** The container for the "Users" table and potentially other tables in the future.
+
+
+#Python Script Documentation starts here
+
+## Greeting Script
+
+### Functionality
+- This Python script takes user input for their name and age.
+- It prints a greeting, welcoming the user and mentioning their age.
+
+### Input
+- **Name (String):** The user's name.
+- **Age (Integer):** The user's age.
+
+### Output
+- A greeting message formatted with the user's name and age.
+
+### Example
+```python
+# Example Input
+uname = "Bek"
+uage = 26
+
+# Example Output
+print(f"Hello, {uname}! You are {uage} years old.")
+

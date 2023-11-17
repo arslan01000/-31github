@@ -17,6 +17,9 @@ For the next 31 days, I am taking on a coding challenge to improve my GitHub pre
 
 - **Day 2-4:** Explored profile README, GitHub Actions, code documentation, and bug fixes.
 - **Day 5-7:** Implemented GitHub Pages, issue templates, and collaborated with peers. 🤝
+- **Day 7:**
+  Update installation instructions in README
+
 
 <!-- i keep updating the log as i progress through the challenge -->
 

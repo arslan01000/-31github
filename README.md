@@ -25,10 +25,11 @@ For the next 31 days, I am taking on a coding challenge to improve my GitHub pre
 - **Coding Skills:** Enhancing proficiency in SQL and Python.
 - **Documentation:** Emphasizing clear and concise documentation.
 - **GitHub Practices:** Exploring GitHub features and best practices.
+- **and more...**
 
 ## Join the Journey 🚴‍♂️
 
-Follow along and connect with me on this coding challenge. Feedback, suggestions, and collaborations are always welcome. Let's make each day of this challenge count! 🎉
+Follow along and connect with me)
 
 Happy coding! 🚀
 

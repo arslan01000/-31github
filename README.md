@@ -1,7 +1,7 @@
 # 31-Day GitHub Challenge 🚀
 challenge_from_growthhungry
 
-Welcome to my 31-day GitHub Challenge repository! Each day, I take on a new challenge to enhance my skills. From bug fixes to code documentation, join me on this adventure! 🌟
+31-day GitHub Challenge repository! From bug fixes to code documentation, join me on this adventure! 🌟
 
 
 ## Challenge Overview
